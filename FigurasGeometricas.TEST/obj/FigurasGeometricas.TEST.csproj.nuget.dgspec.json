@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.TEST\\FigurasGeometricas.TEST.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.APP\\FigurasGeometricas.APP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.APP\\FigurasGeometricas.APP.csproj",
+        "projectName": "FigurasGeometricas.APP",
+        "projectPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.APP\\FigurasGeometricas.APP.csproj",
+        "packagesPath": "C:\\Users\\stev2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.APP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stev2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.BLL\\FigurasGeometricas.BLL.csproj": {
+                "projectPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.BLL\\FigurasGeometricas.BLL.csproj"
+              },
+              "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.DAL\\FigurasGeometricas.DAL.csproj": {
+                "projectPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.DAL\\FigurasGeometricas.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.BLL\\FigurasGeometricas.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.BLL\\FigurasGeometricas.BLL.csproj",
+        "projectName": "FigurasGeometricas.BLL",
+        "projectPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.BLL\\FigurasGeometricas.BLL.csproj",
+        "packagesPath": "C:\\Users\\stev2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stev2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.DAL\\FigurasGeometricas.DAL.csproj": {
+                "projectPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.DAL\\FigurasGeometricas.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.DAL\\FigurasGeometricas.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.DAL\\FigurasGeometricas.DAL.csproj",
+        "projectName": "FigurasGeometricas.DAL",
+        "projectPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.DAL\\FigurasGeometricas.DAL.csproj",
+        "packagesPath": "C:\\Users\\stev2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stev2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.TEST\\FigurasGeometricas.TEST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.TEST\\FigurasGeometricas.TEST.csproj",
+        "projectName": "FigurasGeometricas.TEST",
+        "projectPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.TEST\\FigurasGeometricas.TEST.csproj",
+        "packagesPath": "C:\\Users\\stev2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.TEST\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\stev2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.APP\\FigurasGeometricas.APP.csproj": {
+                "projectPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.APP\\FigurasGeometricas.APP.csproj"
+              },
+              "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.BLL\\FigurasGeometricas.BLL.csproj": {
+                "projectPath": "C:\\Users\\stev2\\source\\repos\\FigurasGeometricas\\FigurasGeometricas.BLL\\FigurasGeometricas.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
+            "Microsoft.TestPlatform.TestHost": {
+              "target": "Package",
+              "version": "[17.7.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

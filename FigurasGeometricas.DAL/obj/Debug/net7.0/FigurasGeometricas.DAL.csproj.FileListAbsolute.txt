@@ -1,0 +1,11 @@
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\bin\Debug\net7.0\FigurasGeometricas.DAL.deps.json
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\bin\Debug\net7.0\FigurasGeometricas.DAL.dll
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\bin\Debug\net7.0\FigurasGeometricas.DAL.pdb
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\obj\Debug\net7.0\FigurasGeometricas.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\obj\Debug\net7.0\FigurasGeometricas.DAL.AssemblyInfoInputs.cache
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\obj\Debug\net7.0\FigurasGeometricas.DAL.AssemblyInfo.cs
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\obj\Debug\net7.0\FigurasGeometricas.DAL.csproj.CoreCompileInputs.cache
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\obj\Debug\net7.0\FigurasGeometricas.DAL.dll
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\obj\Debug\net7.0\refint\FigurasGeometricas.DAL.dll
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\obj\Debug\net7.0\FigurasGeometricas.DAL.pdb
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.DAL\obj\Debug\net7.0\ref\FigurasGeometricas.DAL.dll

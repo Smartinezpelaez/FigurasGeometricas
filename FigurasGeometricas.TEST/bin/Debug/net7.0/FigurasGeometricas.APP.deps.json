@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FigurasGeometricas.APP/1.0.0": {
+        "dependencies": {
+          "FigurasGeometricas.BLL": "1.0.0",
+          "FigurasGeometricas.DAL": "1.0.0"
+        },
+        "runtime": {
+          "FigurasGeometricas.APP.dll": {}
+        }
+      },
+      "FigurasGeometricas.BLL/1.0.0": {
+        "dependencies": {
+          "FigurasGeometricas.DAL": "1.0.0"
+        },
+        "runtime": {
+          "FigurasGeometricas.BLL.dll": {}
+        }
+      },
+      "FigurasGeometricas.DAL/1.0.0": {
+        "runtime": {
+          "FigurasGeometricas.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FigurasGeometricas.APP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FigurasGeometricas.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FigurasGeometricas.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

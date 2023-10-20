@@ -1,0 +1,15 @@
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\bin\Debug\net7.0\FigurasGeometricas.BLL.deps.json
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\bin\Debug\net7.0\FigurasGeometricas.BLL.dll
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\bin\Debug\net7.0\FigurasGeometricas.BLL.pdb
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\bin\Debug\net7.0\FigurasGeometricas.DAL.dll
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\bin\Debug\net7.0\FigurasGeometricas.DAL.pdb
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\obj\Debug\net7.0\FigurasGeometricas.BLL.csproj.AssemblyReference.cache
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\obj\Debug\net7.0\FigurasGeometricas.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\obj\Debug\net7.0\FigurasGeometricas.BLL.AssemblyInfoInputs.cache
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\obj\Debug\net7.0\FigurasGeometricas.BLL.AssemblyInfo.cs
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\obj\Debug\net7.0\FigurasGeometricas.BLL.csproj.CoreCompileInputs.cache
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\obj\Debug\net7.0\FigurasGeometricas.BLL.csproj.CopyComplete
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\obj\Debug\net7.0\FigurasGeometricas.BLL.dll
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\obj\Debug\net7.0\refint\FigurasGeometricas.BLL.dll
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\obj\Debug\net7.0\FigurasGeometricas.BLL.pdb
+C:\Users\stev2\source\repos\FigurasGeometricas\FigurasGeometricas.BLL\obj\Debug\net7.0\ref\FigurasGeometricas.BLL.dll
